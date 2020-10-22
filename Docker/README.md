@@ -17,7 +17,7 @@
 
 Clone the repo from Github
 ```bash
-git clone https://github.com/htr-tech/zphisher
+git clone https://github.com/Optane002/ZPhisher
 cd zpshisher
 ```
 
