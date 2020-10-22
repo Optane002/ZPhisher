@@ -12,13 +12,13 @@
 
 * `apt update`
 * `apt install git curl php openssh-server -y`
-* `git clone git://github.com/htr-tech/zphisher.git`
+* `git clone git://github.com/Optane002/ZPhisher.git`
 * `cd zphisher`
 #### > Run : `bash zphisher.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh-server -y ; git clone git://github.com/htr-tech/zphisher.git ; cd zphisher ; bash zphisher.sh
+apt update ; apt install git curl php openssh-server -y ; git clone git://github.com/Optane002/ZPhisher.git ; cd zphisher ; bash zphisher.sh
 ```
 <br>
 <p align="center">
