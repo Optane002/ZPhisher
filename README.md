@@ -23,7 +23,6 @@ apt update ; apt install git curl php openssh-server -y ; git clone git://github
 <br>
 <p align="center">
 <img width="51%" src="https://github.com/Optane002/ZPhisher/blob/docker-legacy/Kali%20Linux%2023_10_2020%2001_03_00.png"/>
-<img width="51%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher2.png"/>
 </p>
 
 ## Features :
